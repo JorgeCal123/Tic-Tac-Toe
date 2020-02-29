@@ -164,4 +164,4 @@ class TicTacToeGame():
     print()
 
   def print_result(self): # TODO: Finish this function in order to print the result based on the *winner*
-    print("El Ganador es "+ self.winner)
+    print("The winner is "+ self.winner)
